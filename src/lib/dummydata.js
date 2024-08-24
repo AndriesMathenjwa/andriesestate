@@ -1,3 +1,5 @@
+import profile from "/profile.jpg"
+
 export const listData = [
   {
     id: 1,
@@ -103,10 +105,10 @@ export const singlePostData = {
   bedRooms: 2,
   bathroom: 1,
   size: 861,
-  latitude: 51.5074,
-  longitude: -0.1278,
-  city: "London",
-  address: "1234 Broadway St",
+  latitude: -29.8587,
+  longitude: 31.0218,
+  city: "Durban",
+  address: "12 Beach Road, Durban",
   school: "250m away",
   bus: "100m away",
   restaurant: "50m away",
@@ -116,6 +118,6 @@ export const singlePostData = {
 
 export const userData = {
   id: 1,
-  name: "John Doe",
-  img: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  name: "Andrie Matenjwa",
+  img: profile,
 };
