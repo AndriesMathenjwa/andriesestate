@@ -8,24 +8,26 @@ const HomePage = () => {
         <div className="wrapper">
           <h1 className="title">find Real Estate & get your Dream Place</h1>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium
-            sit harum ullam ipsa incidunt deleniti consequuntur quibusdam,
-            voluptatem impedit quasi rerum ex vitae tenetur quia. Eveniet minus
-            sint voluptas ad!
+            At Andries Estate, we’re dedicated to helping you find the perfect
+            property. Whether you’re looking to buy or rent, our team is here to
+            guide you every step of the way. With years of experience in the
+            real estate industry, we’re committed to connecting you with a home
+            that fits your lifestyle, budget, and dreams. Start exploring today
+            and let us help you find your ideal space in the city you love!
           </p>
           <SearchBar />
           <div className="boxes">
             <div className="box">
-                <h1>16+</h1>
-                <h2>Years of Experience</h2>
+              <h1>16+</h1>
+              <h2>Years of Experience</h2>
             </div>
             <div className="box">
-                <h1>200</h1>
-                <h2>Award Gained</h2>
+              <h1>200</h1>
+              <h2>Award Gained</h2>
             </div>
             <div className="box">
-                <h1>1200+</h1>
-                <h2>Property Ready</h2>
+              <h1>1200+</h1>
+              <h2>Property Ready</h2>
             </div>
           </div>
         </div>
